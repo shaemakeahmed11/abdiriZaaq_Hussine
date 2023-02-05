@@ -1,16 +1,4 @@
-# flutter_application_1
+# Chat App Desing
+# Name :Abdirizack HUSEIN mohamed. ID:C119230
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![milif](https://user-images.githubusercontent.com/124067254/216810274-ae27944c-b6a2-4b0e-81ee-1bdc1033a794.png)
